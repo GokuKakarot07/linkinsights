@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-google-genai
+youtube-transcript-api
+python-docx
+beautifulsoup4
+IPython
+streamlit
+python-dotenv
+markdown
+streamlit_option_menu
+nltk
+pytube
+streamlit-pdf-viewer
+comtypes
+docx2pdf
