@@ -24,8 +24,6 @@ LinkInsights is a powerful tool that allows users to input links from YouTube vi
 
 
 
-https://github.com/user-attachments/assets/b91d9744-7148-4a9d-b83d-de2b7aba891a
-
 
 
 
